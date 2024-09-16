@@ -10,7 +10,7 @@
 - 2 eggs
 
 ## Instructions:
-1. Preheat the oven to 350°F (175°C).
+1. Preheat the oven to 175°C.
 2. Sift the flower and sugar
 3. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
 
@@ -18,3 +18,4 @@
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
 5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
+7. Bake until golden brown.
